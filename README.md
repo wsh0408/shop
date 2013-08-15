@@ -1,3 +1,3 @@
-homoplus
+homeplus
 ====
 用于自己练习的开源商城项目。
